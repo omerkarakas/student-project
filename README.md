@@ -1,4 +1,4 @@
-# student-project
+# Student Pproject
 
 ## Tech Stack
 
@@ -13,3 +13,5 @@
 - Javascript
 - React.js
 - Ant Design
+
+... more things to come
